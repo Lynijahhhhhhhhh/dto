@@ -1,5 +1,5 @@
-name: <name here>
-date: <date here>
+name: Lynijah
+date: 07-01-2021
 
 Data Types and Operations | Questions
 
@@ -9,41 +9,46 @@ Please answer all of the following questions thoughtfully and completely.
 
 1a - What is the resulting type of two integers used together for an operation, like 5 + 4?
 
+the sum of the two numbers in int form.
+
 
 
 1b - Is there an exception to this rule, with a certain operator?
+division, if theres a remainder, it'll be a float?
 
 
 
 2a - What is the resulting type of an integer and a float used together for an operation, like -11.4 - 5?
-
+float 
 
 
 2b - Is there an exception to this rule, with a certain operator?
+floor division and Mod division
 
 
 
 3a - What is the resulting type of two floats used together for an operation, like 2.3 * .45?
-
+float 
 
 
 3b - Is there an exception to this rule, with a certain operator?
-
+nope
 
 
 4 - What is string concatenation? How does it work?
-
+when you add two strings together like "hello" + "goodbye" it'll ouput "hellogoodbye"
 
 
 5 - What is string duplication? How does it work?
-
+When you make a string print a specific amount of times. like "spongebob"*5 will output "spongebobspongebobspongebobspongebobspongebobspongebob"
 
 
 6 - Can you combine strings and integers? What about strings and floats? What happens if you do?
-
+No you cannot, It will cause an error.
 
 
 7 - What does this tell you about how strings can interact with integers or floats?
+They can only be used with string duplication and concatenation. Not using opera
 
 
 
