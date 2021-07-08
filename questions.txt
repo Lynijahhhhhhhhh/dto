@@ -32,7 +32,7 @@ float
 
 
 3b - Is there an exception to this rule, with a certain operator?
-nope
+Floor division
 
 
 4 - What is string concatenation? How does it work?
