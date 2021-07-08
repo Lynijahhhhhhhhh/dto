@@ -64,6 +64,8 @@ blank()
 # modulus
 #   instructions
 #       1 - using modulus, print the remainder of two numbers
+print("Modulus Section")
+print(1083108323%22)
 
 
 # --------------- Section 2 --------------- #
@@ -72,17 +74,40 @@ blank()
 # concatenation
 #   instructions
 #       1 - print the concatenation of your first and last name
+print(" ")
+print("Name")
+x = "Lynijah "
+y = "Russell"
+z =  x + y
+print(z)
+print(" ")
 #       2 - print the concatenation of five animals you like
+a = "Cats "
+b = "Dogs "
+c = "Bunnies "
+d = "Merecats "
+e = "Ducks"
+f = a+b+c+d+e
+print(f)
 #       3 - print the concatenation of each word in a phrase
-
+print(" ")
+print("My name is", x , y, "and my favorite animals are", a,",",c,",",d,",",e)
 
 
 # duplication
 #   instructions
 #       1 - print the duplpication of your first 5 times
+print(" ")
+print("Duplication")
+print("Lynijah"*5)
 #       2 - print the duplication of a song you like 10 times
+print("I'm not pretty"*10)
 
+print(" ")
 
 # concatenation and duplpication
 #   instructions
+print("Concatenation")
+
 #       1 - print the concatenation of two strings duplicated 3 times each
+print("hey gurllll        "*3 + "MWUHAHAHAHAHHAHAHAH      "*3)
